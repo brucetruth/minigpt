@@ -1,0 +1,1 @@
+{"Step":100,"Loss":6.183173,"Config":{"VocabSize":1000,"BlockSize":64,"NLayer":3,"NHead":4,"NEmb":192,"PDrop":0.1}}
