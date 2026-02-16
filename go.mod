@@ -1,5 +1,3 @@
-module github.com/broosaction/gotext
+module github.com/brucetruth/minigpt
 
-go 1.15
-
-require go.uber.org/zap v1.16.0
+go 1.21
